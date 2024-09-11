@@ -1,16 +1,46 @@
-## Hi there 👋
+#
+                           8
+                           8
+                           8
+                          8
+                         88
+                        88    8
+                      888   8
+                     88   88
+                    88$  88
+                    88  88
+                    88  88
+                    88  888
+                     8   88
+                     8   888
+                      8   88
+                       8  8
+                  7               7
+               77             $    7
+               7777777777777       7
+                                  77
+                  7              77
+                  777777777777  7
+                      $$
 
-<!--
-**zavdav/zavdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                  777$   677
+                    77777776
+             $7                   6
+            777                  7
+              77777777777777776    7
+                                77
+                   67777777777
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+             88
+             88
+             88   88  ##    #  #88
+             88 88$88  8   88 88$88
+             88     88 88  88     8
+             88    888 88  8    #88
+             88 888 88  8  8  88$ 8
+             88 8   88  8888  8   8
+             88 8   88  888   8   8
+             88 888888   88   88888
+             8
+            88
